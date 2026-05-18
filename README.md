@@ -1,4 +1,4 @@
-# Hi, chelak
+# Hi, am chelak
 
 ## About Me
 - Learning Web Development
